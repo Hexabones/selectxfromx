@@ -299,7 +299,7 @@ module.exports = function (grunt) {
         }, {
           expand: true,
           cwd: '<%= yeoman.app %>/bower_components/Font-Awesome/',
-          dest: '<%= yeoman.dist %>/styles',
+          dest: '<%= yeoman.dist %>',
           src: 'fonts/*'
         }]
       },
