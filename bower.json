@@ -11,7 +11,6 @@
     "angular-cookies": "1.2.6",
     "angular-sanitize": "1.2.6",
     "angular-route": "1.2.6",
-    "angular-animate" : "~1.2.14",
     "Font-Awesome" : "font-awesome#ca228d817e0bb608fe4f9739b673db822a0e8530"
   },
   "devDependencies": {
